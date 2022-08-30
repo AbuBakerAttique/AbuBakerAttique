@@ -7,13 +7,13 @@ Bachelors in Computer Science || NUCES FAST 24
 
 
 ### Skills
-.) Python 
-.) C++ 
-.) Data Structure 
-.) HTML 
-.) CSS 
-.) Assembly Language 
-.) Bootstrap
+ Python /
+ C++ /
+ Data Structure /
+ HTML /
+ CSS /
+ Assembly Language /
+ Bootstrap /
 
 
 - ⚡ Fun fact: You don't know me :) 
