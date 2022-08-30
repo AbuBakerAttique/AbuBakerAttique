@@ -1,12 +1,13 @@
-### Hi there 👋, ABUBAKER ATTIQUE
+### HYYYY  there 👋,I  ABUBAKER ATTIQUE
 #### Programmer
+Bachelors in Computer Science || NUCES FAST 24
 ![Programmer](https://github.com/AbuBakerAttique/AbuBakerAttique/blob/main/WhatsApp%20Image%202022-08-13%20at%208.10.04%20PM.jpeg)
 
-Bachelors in Computer Science || NUCES FAST 24
+
 
 Skills: Python / C++ / Data Structure / HTML / CSS / Assembly Language / Bootstrap
 
-- 🔭 I’m currently working on this page. 
+
 - ⚡ Fun fact: You don't know me :) 
 
 
