@@ -1,8 +1,8 @@
 ### HYYYY  there 👋,I  ABUBAKER ATTIQUE
 #### Programmer
-Bachelors in Computer Science || NUCES FAST 24
+#### Bachelors in Computer Science || NUCES FAST 24
 
-![Programmer](https://github.com/AbuBakerAttique/AbuBakerAttique/blob/main/WhatsApp%20Image%202022-08-13%20at%208.10.04%20PM.jpeg)
+![Programmer]([https://github.com/AbuBakerAttique/AbuBakerAttique/blob/main/WhatsApp%20Image%202022-08-13%20at%208.10.04%20PM.jpeg](https://c4.wallpaperflare.com/wallpaper/733/288/38/pulp-fiction-code-programming-syntax-highlighting-wallpaper-preview.jpg))
 
 
 
