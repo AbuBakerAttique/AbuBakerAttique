@@ -1,6 +1,6 @@
 ### Hi there 👋, ABUBAKER ATTIQUE
 #### Programmer
-![Programmer](https://image.shutterstock.com/image-vector/programming-code-coding-hacker-background-260nw-1714491562.jpg)
+![Programmer](https://github.com/AbuBakerAttique/AbuBakerAttique/blob/main/WhatsApp%20Image%202022-08-13%20at%208.10.04%20PM.jpeg)
 
 Bachelors in Computer Science || NUCES FAST 24
 
