@@ -1,7 +1,7 @@
 ### Hi there 👋, ABUBAKER ATTIQUE
 #### Programmer
 ## Bachelors in Computer Science || NUCES FAST 24
-![Programmer](https://rare-gallery.com/thumbnail/420232-programming-code-minimalism.png)
+![Programmer]
 
 
 
