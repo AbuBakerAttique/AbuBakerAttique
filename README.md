@@ -100,18 +100,5 @@ C++ based system improving operational safety and reducing incident reporting ti
 
 ---
 
-# 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbuBakerAttique&theme=github)
-
----
-
-# 📫 Connect With Me
-
-📧 Email: **Abubakerokz@gmail.com**  
-💼 LinkedIn: *(Add your LinkedIn here)*  
-💻 GitHub: **github.com/AbuBakerAttique**
-
----
 
 ⭐ *Always learning, always building.*
