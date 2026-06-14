@@ -1,18 +1,18 @@
 <!-- ===== BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1622,50:0E7490,100:22D3EE&height=220&section=header&text=Abubaker%20Attique&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20Machine%20Learning%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Deep%20Learning&descSize=18&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:30363D,100:6E7681&height=220&section=header&text=Abubaker%20Attique&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Machine%20Learning&descSize=20&descAlignY=58" />
 
 <p align="center">
   <a href="https://github.com/AbuBakerAttique">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&width=600&lines=MSc+Artificial+Intelligence+%40+BTU+Germany;Deep+Learning+%7C+Computer+Vision+%7C+Multi-Modal+AI;Training+Models+From+Scratch+%E2%86%92+Real-Time+Inference;PyTorch+%C2%B7+TensorFlow+%C2%B7+MediaPipe+%C2%B7+React" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=C9D1D9&center=true&width=600&lines=AI+Engineer+%C2%B7+Machine+Learning;MSc+Artificial+Intelligence+%40+BTU+Germany;Training+Models+From+Scratch+%E2%86%92+Real-Time+Inference" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- ===== SOCIALS ===== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/abubakerattique/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:Abubakerokz@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/AbuBakerAttique"><img src="https://img.shields.io/badge/GitHub-0B1622?style=for-the-badge&logo=github&logoColor=22D3EE"/></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=AbuBakerAttique&label=Profile%20views&color=22D3EE&style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/abubakerattique/"><img src="https://img.shields.io/badge/LinkedIn-30363D?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:Abubakerokz@gmail.com"><img src="https://img.shields.io/badge/Email-30363D?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/AbuBakerAttique"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=AbuBakerAttique&label=Profile%20views&color=6E7681&style=for-the-badge"/>
 </p>
 
 <br/>
@@ -22,18 +22,25 @@
 
 <img align="right" width="34%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-**AI / Machine Learning Engineer** and Computer Science graduate pursuing an **MSc in Artificial Intelligence** in Germany. I design, train, and deploy deep learning systems across computer vision, speech, and multi-modal applications — taking projects from raw data all the way to real-time inference.
+**AI Engineer · Machine Learning** — Computer Science graduate pursuing an **MSc in Artificial Intelligence** in Germany. I design, train, and deploy deep learning systems across computer vision, speech, and multi-modal applications — taking projects from raw data all the way to real-time inference.
 
 - 🎓 &nbsp;MSc Artificial Intelligence — **BTU Cottbus-Senftenberg, Germany**
 - 🤖 &nbsp;I train deep learning models from scratch reaching up to **97% accuracy**
 - 🚀 &nbsp;End-to-end builder: **datasets → training → deployment → real-time inference**
 - 💼 &nbsp;**2+ years** professional software & front-end development
-- 🌍 &nbsp;**Open to ML / AI Engineer roles** — internships & full-time
+- 🌍 &nbsp;**Open to AI / ML Engineer roles** — internships & full-time
 - 📫 &nbsp;Reach me at **Abubakerokz@gmail.com**
 
 <br clear="both"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1622,100:22D3EE&height=3"/>
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbuBakerAttique/AbuBakerAttique/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbuBakerAttique/AbuBakerAttique/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/AbuBakerAttique/AbuBakerAttique/output/github-snake-dark.svg" />
+</picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6E7681&height=3"/>
 
 <!-- ===== TECH STACK ===== -->
 ## 🧰 Tech Stack
@@ -46,7 +53,7 @@
   <code>CNN</code> &nbsp; <code>LSTM</code> &nbsp; <code>Computer Vision</code> &nbsp; <code>NLP</code> &nbsp; <code>MediaPipe</code> &nbsp; <code>MFCC</code> &nbsp; <code>Pose Estimation</code> &nbsp; <code>REST APIs</code>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1622,100:22D3EE&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6E7681&height=3"/>
 
 <!-- ===== EXPERIENCE ===== -->
 ## 💼 Experience
@@ -59,7 +66,7 @@
   <tr><td><b>Physics Teaching Assistant</b></td><td>FAST-NUCES</td><td align="right"><sub>Sep 2022 – Feb 2023</sub></td></tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1622,100:22D3EE&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6E7681&height=3"/>
 
 <!-- ===== PROJECTS ===== -->
 ## 🚀 Featured Projects
@@ -91,18 +98,18 @@
 >
 > **Stack:** `Python` `Deep Learning` `React Native` `Firebase`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1622,100:22D3EE&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6E7681&height=3"/>
 
 <!-- ===== STATS ===== -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbuBakerAttique&show_icons=true&count_private=true&hide_border=true&bg_color=0B1622&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuBakerAttique&layout=compact&hide_border=true&bg_color=0B1622&title_color=22D3EE&text_color=C9D1D9"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbuBakerAttique&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9CA3AF&text_color=C9D1D9"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuBakerAttique&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbuBakerAttique&hide_border=true&background=0B1622&stroke=0B1622&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbuBakerAttique&hide_border=true&background=0D1117&stroke=0D1117&ring=9CA3AF&fire=D1D5DB&currStreakLabel=FFFFFF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0E7490,100:0B1622&height=120&section=footer&text=From%20raw%20data%20to%20real-time%20inference&fontSize=16&fontColor=ffffff&fontAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E7681,50:30363D,100:0D1117&height=120&section=footer&text=From%20raw%20data%20to%20real-time%20inference&fontSize=16&fontColor=ffffff&fontAlignY=70"/>
