@@ -25,7 +25,7 @@
 **AI Engineer · Machine Learning** — Computer Science graduate pursuing an **MSc in Artificial Intelligence** in Germany. I design, train, and deploy deep learning systems across computer vision, speech, and multi-modal applications — taking projects from raw data all the way to real-time inference.
 
 - 🎓 &nbsp;MSc Artificial Intelligence — **BTU Cottbus-Senftenberg, Germany**
-- 🤖 &nbsp;I train deep learning models from scratch reaching up to **97% accuracy**
+- 🤖 &nbsp;I train deep learning models from scratch reaching up to **Best% accuracy**
 - 🚀 &nbsp;End-to-end builder: **datasets → training → deployment → real-time inference**
 - 💼 &nbsp;**2+ years** professional software & front-end development
 - 🌍 &nbsp;**Open to AI / ML Engineer roles** — internships & full-time
