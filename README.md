@@ -87,7 +87,10 @@
 > Real-time computer-vision fitness tracker (MediaPipe Pose) counting reps and detecting form errors across **6 exercises** — no paid APIs. NumPy joint-angle engine + state-machine rep counter, phone-as-camera over HTTPS, Three.js 3D form guide, and live voice feedback.
 >
 > **Stack:** `Python` `MediaPipe` `NumPy` `Three.js` `Web Speech API`
-
+> ### 📰 [Fake News Detector](https://fake-news-demo.streamlit.app/) &nbsp;·&nbsp; Explainable AI Web Application &nbsp; `2026`
+> Built a fake news detection web app that classifies articles as **Fake** or **Real** using TF-IDF and machine learning models. Added **LIME explanations**, model comparison, word cloud visualisations, and statistical writing-style analysis to make predictions easier to understand.
+>
+> **Stack:** `Python` `Flask` `Streamlit` `scikit-learn` `NLTK` `LIME`
 > ### 🌿 Plant Disease Detection System &nbsp;·&nbsp; AI + Web App &nbsp; `2024`
 > CNN classifier detecting plant-leaf diseases from images, served via a backend inference API and a responsive full-stack web app for non-technical users.
 >
