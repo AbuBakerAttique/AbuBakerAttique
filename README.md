@@ -1,5 +1,5 @@
 <!-- ===== BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:30363D,100:6E7681&height=220&section=header&text=Abubaker%20Attique&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Deep%20Learning%20%C2%B7%20Full-Stack%20AI&descSize=20&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:30363D,100:6E7681&height=220&section=header&text=Abubaker%20Attique&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Deep%20Learning%20%C2%B7%20%20AI&descSize=20&descAlignY=58" />
 
 <p align="center">
   <a href="https://github.com/AbuBakerAttique">
