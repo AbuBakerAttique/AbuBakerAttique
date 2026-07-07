@@ -36,7 +36,7 @@ I design, train, and deploy deep learning and full-stack AI applications across 
 - 💻 &nbsp;B.Sc. Computer Science — **FAST-NUCES, Pakistan**
 - 🤖 &nbsp;Experienced in **PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, MediaPipe, Librosa**
 - 🚀 &nbsp;Built AI systems for **interview analysis, fitness tracking, fake news detection, plant disease detection, and sign-language recognition**
-- 💼 &nbsp;**2+ years** of professional software development experience
+- 💼 &nbsp;**2+ years** professional software development experience
 - 🌍 &nbsp;Based in **Cottbus, Germany**
 - 📫 &nbsp;Reach me at **Abubakerokz@gmail.com**
 
@@ -85,6 +85,28 @@ I design, train, and deploy deep learning and full-stack AI applications across 
   <code>Tailwind CSS</code> &nbsp;
   <code>PostgreSQL</code> &nbsp;
   <code>MongoDB</code>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6E7681&height=3" />
+
+<!-- ===== AI / ML FOCUS ===== -->
+## 🤖 AI / ML Focus Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-30363D?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Speech%20AI-0D1117?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Modal%20AI-30363D?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Real--Time%20Inference-0D1117?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CNNs-30363D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LSTMs-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MFCC-30363D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MediaPipe-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCV-30363D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model%20Training-0D1117?style=for-the-badge" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6E7681&height=3" />
@@ -168,6 +190,29 @@ I design, train, and deploy deep learning and full-stack AI applications across 
 </table>
 
 **Relevant Coursework:** Artificial Intelligence, Applied Machine Learning, Data Structures & Algorithms, Operating Systems, Database Systems, Natural Language Processing, Software Engineering
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6E7681&height=3" />
+
+<!-- ===== PROJECT HIGHLIGHTS ===== -->
+## 🏆 Project Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Speech%20Confidence-93.4%25-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Posture%20Scorer-97.3%25-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Facial%20Expression-75.5%25-22C55E?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAVDESS-2880%20Audio%20Files-30363D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FER2013-28821%20Images-30363D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MediaPipe-4794%20Samples-30363D?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Real--Time%20AI-Interview%20Coach-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/6%20Exercise%20Tracker-Gym%20Form%20Analyzer-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Explainable%20AI-Fake%20News%20Detector-0D1117?style=for-the-badge" />
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6E7681&height=3" />
 
@@ -262,6 +307,33 @@ I design, train, and deploy deep learning and full-stack AI applications across 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6E7681&height=3" />
 
+<!-- ===== GITHUB ACTIVITY ===== -->
+## 📊 GitHub Activity
+
+<p align="center">
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbuBakerAttique&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbuBakerAttique&theme=github_dark" />
+  <img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbuBakerAttique&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbuBakerAttique&theme=github_dark" />
+  <img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbuBakerAttique&theme=github_dark&utcOffset=2" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=AbuBakerAttique&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=9CA3AF&fire=D1D5DB&currStreakLabel=FFFFFF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbuBakerAttique&bg_color=0D1117&color=C9D1D9&line=22C55E&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6E7681&height=3" />
+
 <!-- ===== LANGUAGES ===== -->
 ## 🌐 Languages
 
@@ -270,29 +342,6 @@ I design, train, and deploy deep learning and full-stack AI applications across 
   <img src="https://img.shields.io/badge/Urdu-Native-30363D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pashto-Native-30363D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/German-A1.1-30363D?style=for-the-badge" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6E7681&height=3" />
-
-<!-- ===== GITHUB STATS ===== -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" alt="GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbuBakerAttique&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img height="165" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbuBakerAttique&theme=github_dark" />
-  <img height="165" alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbuBakerAttique&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img height="165" alt="Most Used Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbuBakerAttique&theme=github_dark" />
-  <img height="165" alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbuBakerAttique&theme=github_dark&utcOffset=2" />
-</p>
-
-<p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=AbuBakerAttique&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=9CA3AF&fire=D1D5DB&currStreakLabel=FFFFFF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
 </p>
 
 <!-- ===== FOOTER ===== -->
