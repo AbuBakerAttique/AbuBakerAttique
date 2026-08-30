@@ -300,7 +300,9 @@ Classifies articles using TF-IDF and machine-learning models, with LIME explanat
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbuBakerAttique&bg_color=0D1117&color=C9D1D9&line=0A66C2&point=FFFFFF&area=true&hide_border=true" />
+  <a href="https://github.com/AbuBakerAttique">
+    <img width="90%" src="https://ghchart.rshah.org/0A66C2/AbuBakerAttique" alt="Abubaker Attique's GitHub contribution chart" />
+  </a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0A66C2&height=3" />
