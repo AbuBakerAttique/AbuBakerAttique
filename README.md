@@ -1,5 +1,5 @@
 <!-- ===== BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:30363D,100:6E7681&height=220&section=header&text=Abubaker%20Attique&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20AI%20Developer&descSize=20&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0B3B60,100:0A66C2&height=220&section=header&text=Abubaker%20Attique&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20RAG%20%C2%B7%20LLMs%20%C2%B7%20Multimodal%20AI&descSize=20&descAlignY=58" />
 
 <p align="center">
   <a href="https://github.com/AbuBakerAttique">
@@ -10,13 +10,16 @@
 <!-- ===== SOCIALS ===== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/abubakerattique/">
-    <img src="https://img.shields.io/badge/LinkedIn-30363D?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="mailto:Abubakerokz@gmail.com">
     <img src="https://img.shields.io/badge/Email-30363D?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
   <a href="https://github.com/AbuBakerAttique">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://abubaker-attique.pages.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-0B3B60?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=AbuBakerAttique&label=Profile%20views&color=6E7681&style=for-the-badge" />
 </p>
@@ -35,7 +38,7 @@ My recent project, **[FinMind AI](https://github.com/AbuBakerAttique/FinMind-AI)
 - 🌍 &nbsp;Based in **Cottbus, Germany**
 - 📫 &nbsp;[Abubakerokz@gmail.com](mailto:Abubakerokz@gmail.com)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6E7681&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0A66C2&height=3" />
 
 <!-- ===== TECH STACK ===== -->
 ## 🧰 Tech Stack
@@ -86,12 +89,20 @@ My recent project, **[FinMind AI](https://github.com/AbuBakerAttique/FinMind-AI)
   <code>Pytest</code>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6E7681&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0A66C2&height=3" />
 
 <!-- ===== FEATURED PROJECTS ===== -->
 ## 🚀 Featured Projects
 
 ### 📊 [FinMind AI](https://github.com/AbuBakerAttique/FinMind-AI) · Private Financial Document Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/Local--First_AI-0B3B60?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-Qdrant-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM-Ollama-30363D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Calculations-Verified-16835A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tests-Pytest-0A9EDC?style=flat-square" />
+</p>
 
 A local-first **RAG application** for analysing financial reports with semantic retrieval, page citations, structured LLM extraction, and deterministic financial calculations.
 
@@ -125,7 +136,7 @@ Real-time computer-vision fitness tracker that counts repetitions and detects fo
 
 ---
 
-### 📰 [Fake News Detector](https://fake-news-demo.streamlit.app/) · Explainable AI
+### 📰 [Fake News Detector](https://github.com/AbuBakerAttique/fake-news-project) · [Live Demo](https://fake-news-demo.streamlit.app/)
 
 Classifies articles using TF-IDF and machine-learning models, with LIME explanations, model comparison, word-cloud visualisations, and writing-style analysis.
 
@@ -139,7 +150,7 @@ Classifies articles using TF-IDF and machine-learning models, with LIME explanat
 
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6E7681&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0A66C2&height=3" />
 
 <!-- ===== EXPERIENCE ===== -->
 ## 💼 Professional Experience
@@ -201,7 +212,7 @@ Classifies articles using TF-IDF and machine-learning models, with LIME explanat
   </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6E7681&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0A66C2&height=3" />
 
 <!-- ===== EDUCATION ===== -->
 ## 🎓 Education
@@ -221,7 +232,7 @@ Classifies articles using TF-IDF and machine-learning models, with LIME explanat
 
 **Relevant Coursework:** Artificial Intelligence, Applied Machine Learning, Data Structures & Algorithms, Operating Systems, Database Systems, Natural Language Processing, Software Engineering
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6E7681&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0A66C2&height=3" />
 
 <!-- ===== SKILLS DETAILS ===== -->
 ## 🧠 Technical Skills
@@ -257,7 +268,7 @@ Classifies articles using TF-IDF and machine-learning models, with LIME explanat
   </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6E7681&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0A66C2&height=3" />
 
 <!-- ===== GITHUB ACTIVITY ===== -->
 ## 📊 GitHub Activity
@@ -280,10 +291,19 @@ Classifies articles using TF-IDF and machine-learning models, with LIME explanat
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbuBakerAttique&bg_color=0D1117&color=C9D1D9&line=22C55E&point=FFFFFF&area=true&hide_border=true" />
+  <img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbuBakerAttique&theme=github_dark" />
+  <img width="34%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbuBakerAttique&theme=github_dark&utcOffset=2" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6E7681&height=3" />
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=AbuBakerAttique&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=0A66C2&fire=22C55E&currStreakLabel=FFFFFF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbuBakerAttique&bg_color=0D1117&color=C9D1D9&line=0A66C2&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0A66C2&height=3" />
 
 <!-- ===== LANGUAGES ===== -->
 ## 🌐 Languages
@@ -296,4 +316,4 @@ Classifies articles using TF-IDF and machine-learning models, with LIME explanat
 </p>
 
 <!-- ===== FOOTER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E7681,50:30363D,100:0D1117&height=120&section=footer&text=Building%20private%2C%20reliable%2C%20end-to-end%20AI%20systems&fontSize=16&fontColor=ffffff&fontAlignY=70" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:0B3B60,100:0D1117&height=120&section=footer&text=Building%20private%2C%20reliable%2C%20end-to-end%20AI%20systems&fontSize=16&fontColor=ffffff&fontAlignY=70" />
