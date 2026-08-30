@@ -274,11 +274,7 @@ Classifies articles using TF-IDF and machine-learning models, with LIME explanat
 ## 📊 GitHub Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbuBakerAttique/AbuBakerAttique/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbuBakerAttique/AbuBakerAttique/output/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/AbuBakerAttique/AbuBakerAttique/output/github-snake-dark.svg" />
-  </picture>
+  <img width="100%" src="https://raw.githubusercontent.com/AbuBakerAttique/AbuBakerAttique/output/github-snake.gif" alt="Animated GitHub contribution snake" />
 </p>
 
 <p align="center">
