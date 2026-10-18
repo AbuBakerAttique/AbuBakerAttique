@@ -310,7 +310,7 @@ Classifies articles using TF-IDF and machine-learning models, with LIME explanat
   <img src="https://img.shields.io/badge/English-Professional-30363D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Urdu-Native-30363D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pashto-Native-30363D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/German-A1.1-30363D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/German-A1.2-30363D?style=for-the-badge" />
 </p>
 
 <!-- ===== FOOTER ===== -->
