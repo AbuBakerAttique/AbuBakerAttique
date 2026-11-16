@@ -33,10 +33,41 @@ I am an **AI/ML Engineer** pursuing an **M.Sc. in Artificial Intelligence at BTU
 
 My recent project, **[FinMind AI](https://github.com/AbuBakerAttique/FinMind-AI)**, is a privacy-focused financial-document intelligence platform featuring local embeddings, vector search, cited answers, structured extraction, and verified calculations.
 
+- 🏆 &nbsp;**1st Place** — Monad Blitz Berlin · **2nd Place** — NASA Space Apps Cottbus 2026
 - 💼 &nbsp;**2+ years** of software development experience
 - 🎓 &nbsp;B.Sc. Computer Science — **FAST-NUCES, Pakistan**
 - 🌍 &nbsp;Based in **Cottbus, Germany**
 - 📫 &nbsp;[Abubakerokz@gmail.com](mailto:Abubakerokz@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0A66C2&height=3" />
+
+<!-- ===== HACKATHON AWARDS ===== -->
+## 🏆 Hackathon Awards
+
+<p>
+  <img src="https://img.shields.io/badge/🥇_1st_Place-Monad_Blitz_Berlin-D4A017?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🥈_2nd_Place-NASA_Space_Apps_2026-8A939B?style=for-the-badge" />
+</p>
+
+### 🔥 [FireChronos](https://github.com/AbuBakerAttique/Nasa-Hackaton-2026) · NASA International Space Apps Challenge 2026 · [Live Demo](https://nasa-hackaton-2026.vercel.app/)
+
+**🥈 2nd Place (Local) · Nominated for Global Judging**
+
+A geospatial platform that makes 25 years of NASA satellite fire observations (2001–2025) easier to explore and understand. As team lead, I chose the idea and built most of the product.
+
+**Features:** MODIS and VIIRS fire data harmonisation and comparison · interactive geospatial fire exploration · historical burning calendars and seasonal trends · FireDNA regional fire-pattern profiles · ERA5 historical wind speed and direction analysis · historical fire-event exploration
+
+**Stack:** `Next.js` `Python` `NASA MODIS` `NASA VIIRS` `ERA5`
+
+---
+
+### ⚡ Streaker · Social Habit Staking on Monad · [Live Demo](https://dracarys-monad.vercel.app/)
+
+**🥇 1st Place · Monad Blitz Berlin · DeFi**
+
+A social habit-staking protocol: *"Feed the flame every day or get burned."* Users stake daily micro-commitments in MON (e.g. 0.05 MON/day) into a smart contract escrow vault. Friend-approved check-ins pay out instantly using Monad's sub-second execution, and missed check-ins are slashed after 24h and redistributed to active members.
+
+📜 **[View all certificates →](https://abubaker-attique.pages.dev/pages/certificates.html)**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0A66C2&height=3" />
 
